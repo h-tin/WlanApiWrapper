@@ -7,4 +7,5 @@ Supported methods:
 - EnumInterfaces()
 - GetAvailableNetworkList()
 - GetNetworkBssList()
+- QueryInterfaceCurrentConnection()
 - Scan()
