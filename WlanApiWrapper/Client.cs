@@ -286,9 +286,7 @@ public class InterfaceInfoList
 
 public class SecurityAttributes
 {
-    [MarshalAs(UnmanagedType.Bool)]
     public bool securityEnabled;
-    [MarshalAs(UnmanagedType.Bool)]
     public bool oneXEnabled;
     public API.DOT11_AUTH_ALGORITHM dot11AuthAlgorithm;
     public API.DOT11_CIPHER_ALGORITHM dot11CipherAlgorithm;
